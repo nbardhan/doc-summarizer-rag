@@ -16,3 +16,6 @@ Upon taking in these documents, augmented with OpenAI's API of training data, us
 These queries will be related to the documents uploaded in question. The output will return relevant answers to said queries.
 
 E.g. if documents are uploaded about the financials of a large corporation.
+
+TO RUN: in VSC (or other IDE) terminal, navigate to the correct folder as your present working directory (pwd).
+Then, run "streamlit run insert_filename_here.py"
