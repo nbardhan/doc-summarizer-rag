@@ -17,5 +17,8 @@ These queries will be related to the documents uploaded in question. The output 
 
 E.g. if documents are uploaded about the financials of a large corporation.
 
+How to download all requirements.txt:
+pip install -r /path/to/requirements.txt
+
 TO RUN: in VSC (or other IDE) terminal, navigate to the correct folder as your present working directory (pwd).
 Then, run "streamlit run insert_filename_here.py"
