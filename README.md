@@ -17,6 +17,8 @@ These queries will be related to the documents uploaded in question. The output 
 
 E.g. if documents are uploaded about the financials of a large corporation.
 
+🔍 Business Use Case: Enables stakeholders to ask questions about complex documents (e.g., financials, contracts, earnings reports) without reading them end-to-end.
+
 How to download all requirements.txt:
 pip install -r /path/to/requirements.txt
 
