@@ -3,7 +3,6 @@ DocBot – An LLM-powered document QA tool for deep insights across diverse sour
 ### 🔍 Features
 
 - 📄 Upload and parse documents (PDF, DOCX, TXT)
-- 🌐 Scrape and ingest web content (news articles, reports, etc.) -> Tavily
 - 🤖 Semantic search using vector embeddings
 - 💬 Ask natural-language questions about your document set
 - 📊 Return relevant summaries, insights, or direct answers
